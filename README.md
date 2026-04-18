@@ -26,14 +26,14 @@ I now combine my medical and technical background to pursue **applied research i
 
 > LLM-powered lung CT analysis pipeline with structured Lung-RADS / RECIST reporting and a radiologist validation interface.
 
-`Python` `LangChain` `LangGraph` `Mistral` `MONAI` `SimpleITK` `PyDICOM` `Gradio` `PostgreSQL` `pgvector` `Docker`
+`Python` `LangChain` `LangGraph` `Mistral` `SimpleITK` `PyDICOM` `Docker`
 
 **What it demonstrates:**
 medical imaging pipelines · DICOM processing · agentic LLM orchestration · multi-step clinical reasoning · expert-facing UX design
 
 ---
 
-### [MedQuizz](https://github.com/comarquet/MedQuizz) — Medical Education Content Generator
+### Clinosia — Medical Education Content Generator `private`
 
 > RAG-based system that generates French medical QCMs and progressive clinical cases grounded in cardiology course material, with citation verification and human-in-the-loop validation.
 
@@ -136,7 +136,6 @@ web scraping · HTML parsing · data cleaning & export · CLI UX
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MONAI](https://img.shields.io/badge/MONAI-00B388?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
@@ -146,14 +145,12 @@ web scraping · HTML parsing · data cleaning & export · CLI UX
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 <td align="center">
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
