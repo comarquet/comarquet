@@ -26,7 +26,7 @@ I now combine my medical and technical background to pursue **applied research i
 
 > LLM-powered lung CT analysis pipeline with structured Lung-RADS / RECIST reporting and a radiologist validation interface.
 
-`Python` `LangChain` `LangGraph` `Mistral` `SimpleITK` `PyDICOM` `Docker`
+`Python` `LangChain` `LangGraph` `SimpleITK` `PyDICOM` `Docker`
 
 **What it demonstrates:**
 medical imaging pipelines · DICOM processing · agentic LLM orchestration · multi-step clinical reasoning · expert-facing UX design
@@ -37,7 +37,7 @@ medical imaging pipelines · DICOM processing · agentic LLM orchestration · mu
 
 > RAG-based system that generates French medical QCMs and progressive clinical cases grounded in cardiology course material, with citation verification and human-in-the-loop validation.
 
-`Python` `LangGraph` `ChromaDB` `Claude` `OpenAI` `FastAPI` `Pydantic` `BeautifulSoup`
+`Python` `LangGraph` `ChromaDB` `FastAPI` `Pydantic` `BeautifulSoup`
 
 **What it demonstrates:**
 RAG architecture · hierarchical chunking & retrieval · structured LLM outputs · automated quality verification · agent loops · vector database operations
@@ -103,7 +103,7 @@ spatial algorithms · API optimization strategies · CLI design · data modeling
 
 > CLI tool to scrape and filter French book listings from Babelio by reviews, ratings, and categories.
 
-`Python` `Requests` `BeautifulSoup`
+`Python` `BeautifulSoup`
 
 **What it demonstrates:**
 web scraping · HTML parsing · data cleaning & export · CLI UX
@@ -134,9 +134,10 @@ web scraping · HTML parsing · data cleaning & export · CLI UX
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-EC4899?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td align="center">
