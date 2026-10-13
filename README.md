@@ -4,6 +4,8 @@
 
 **Physician & Engineer** · AI for Healthcare
 
+**MVA Master's student at ENS Paris-Saclay (2026–2027)**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/comarquet)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cormarquet@gmail.com)
 
@@ -13,8 +15,9 @@
 
 After completing seven years of medical studies, I joined the dual **physician-engineer program** at **École des Mines de Saint-Étienne**, specializing in computer science and data science.
 
-I now combine my medical and technical background to pursue **applied research in AI for healthcare** and contribute to the development of innovative solutions that improve patient care.
+I am currently pursuing the **Master's in Mathematics, Vision and Learning (MVA)** at **ENS Paris-Saclay (2026–2027)**. I combine my medical and technical background to pursue **applied research in AI for healthcare** and contribute to the development of innovative solutions that improve patient care.
 
+> **2026–2027** — MVA Master's · ENS Paris-Saclay\
 > **2025–2026** — Major in Data Science · GPA 4.33 / 4.33\
 > **2024–2025** — Major in Computer Science · GPA 4.33 / 4.33
 
